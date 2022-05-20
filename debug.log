@@ -1,0 +1,11 @@
+[1126/204958.028:ERROR:process_info.cc(359)] UncheckedAllocate
+[1126/205022.348:ERROR:process_info.cc(359)] UncheckedAllocate
+[1126/205022.366:ERROR:file_io.cc(134)] WriteFile: There is not enough space on the disk. (0x70)
+[1126/205022.366:ERROR:crash_report_database_win.cc(499)] failed to write header
+[1126/205110.412:ERROR:file_io.cc(134)] WriteFile: There is not enough space on the disk. (0x70)
+[1126/205110.412:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[1126/205110.413:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Ali\AppData\Local\Google\Chrome\User Data\Crashpad\reports\8291f992-480f-445a-92ba-8308f8f3a1d0.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1025/223242.563:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1028/040648.920:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0125/091444.434:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0125/111726.704:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
